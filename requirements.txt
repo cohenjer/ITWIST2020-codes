@@ -1,0 +1,6 @@
+# Required Packages
+numpy
+scipy
+scikit-learn
+matplotlib
+nn_fac>=0.1.2
